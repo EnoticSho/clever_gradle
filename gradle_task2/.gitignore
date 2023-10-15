@@ -1,0 +1,10 @@
+# Gradle
+.gradle/
+build/
+
+# Other common ignores
+*.log
+*.bak
+*.swp
+*.class
+.DS_Store
