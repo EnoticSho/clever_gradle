@@ -18,3 +18,11 @@ tasks.jar {
     }
     archiveFileName.set("utils-1.3.5.jar")
 }
+
+dependencies {
+    testImplementation("org.junit.jupiter:junit-jupiter:5.7.0")
+}
+
+tasks.test {
+    useJUnitPlatform()
+}
