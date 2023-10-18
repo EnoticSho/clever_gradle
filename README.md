@@ -10,7 +10,7 @@
 
     Проект разделен на два модуля: core и api.
 
-    Core модуль: Содержит класс Utils с методом boolean isAllPositiveNumbers(String... str), который использует метод из библиотеки utils-1.3.5.jar(jar файл лежит в core модуле в папке libs)
+    Core модуль: Содержит класс Utils с методом boolean isAllPositiveNumbers(String... str), который использует метод из библиотеки utils-1.3.5.jar(jar файл лежит в core модуле в папке libs) и плагин jacoco.
 
     API модуль: Содержит класс App с методом main, в котором происходит вызов метода Utils.isAllPositiveNumbers().
 
