@@ -1,0 +1,8 @@
+.gradle/
+build/
+
+*.log
+*.bak
+*.swp
+*.class
+.DS_Store
